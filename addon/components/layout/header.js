@@ -153,12 +153,6 @@ export default class LayoutHeaderComponent extends Component {
             {
                 seperator: true,
             },
-            {
-                href: 'javascript:;',
-                text: 'Changelog',
-                disabled: true,
-                action: 'viewChangelog',
-            },
         ];
 
         if (this.hasExtension('@fleetbase/dev-engine')) {
@@ -170,19 +164,13 @@ export default class LayoutHeaderComponent extends Component {
 
         items.pushObjects([
             {
-                href: 'https://discord.gg/MJQgxHwN',
-                target: '_discord',
-                text: 'Join Discord Community',
-                icon: 'arrow-up-right-from-square',
-            },
-            {
-                href: 'https://github.com/fleetbase/fleetbase/issues',
+                href: 'https://fastlane.ee/contact-us',
                 target: '_support',
                 text: 'Help & Support',
                 icon: 'arrow-up-right-from-square',
             },
             {
-                href: 'https://fleetbase.github.io/api-reference/',
+                href: 'https://fastlane.ee/documentations',
                 target: '_api',
                 text: 'API Reference',
                 icon: 'arrow-up-right-from-square',
