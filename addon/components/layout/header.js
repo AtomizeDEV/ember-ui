@@ -153,40 +153,10 @@ export default class LayoutHeaderComponent extends Component {
             {
                 seperator: true,
             },
-            {
-                href: 'javascript:;',
-                text: 'Changelog',
-                disabled: true,
-                action: 'viewChangelog',
-            },
         ];
 
-        if (this.hasExtension('@fleetbase/dev-engine')) {
-            items.pushObject({
-                route: 'console.developers',
-                text: 'Developers',
-            });
-        }
 
         items.pushObjects([
-            {
-                href: 'https://discord.gg/MJQgxHwN',
-                target: '_discord',
-                text: 'Join Discord Community',
-                icon: 'arrow-up-right-from-square',
-            },
-            {
-                href: 'https://github.com/fleetbase/fleetbase/issues',
-                target: '_support',
-                text: 'Help & Support',
-                icon: 'arrow-up-right-from-square',
-            },
-            {
-                href: 'https://fleetbase.github.io/api-reference/',
-                target: '_api',
-                text: 'API Reference',
-                icon: 'arrow-up-right-from-square',
-            },
             {
                 component: 'layout/header/dark-mode-toggle',
             },
