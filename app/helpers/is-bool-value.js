@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/is-bool-value';
+export { default } from '@atomizedev/ember-ui/helpers/is-bool-value';

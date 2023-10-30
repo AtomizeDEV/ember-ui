@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/unit-input/unit-handle';
+export { default } from '@atomizedev/ember-ui/components/unit-input/unit-handle';

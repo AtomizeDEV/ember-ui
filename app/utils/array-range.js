@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/array-range';
+export { default } from '@atomizedev/ember-ui/utils/array-range';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/click-to-reveal';
+export { default } from '@atomizedev/ember-ui/components/click-to-reveal';

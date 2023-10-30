@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/filter/model';
+export { default } from '@atomizedev/ember-ui/components/filter/model';

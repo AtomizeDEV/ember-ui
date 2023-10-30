@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/smart-humanize';
+export { default } from '@atomizedev/ember-ui/helpers/smart-humanize';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/scrollable';
+export { default } from '@atomizedev/ember-ui/components/scrollable';

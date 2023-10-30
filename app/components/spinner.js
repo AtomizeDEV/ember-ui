@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/spinner';
+export { default } from '@atomizedev/ember-ui/components/spinner';

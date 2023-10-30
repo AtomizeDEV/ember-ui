@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/stat-widget';
+export { default } from '@atomizedev/ember-ui/components/stat-widget';

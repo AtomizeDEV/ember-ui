@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/utils/dom';
+export { default } from '@atomizedev/ember-ui/utils/dom';

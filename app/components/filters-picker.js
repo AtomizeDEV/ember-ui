@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/filters-picker';
+export { default } from '@atomizedev/ember-ui/components/filters-picker';

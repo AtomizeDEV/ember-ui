@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/country-select';
+export { default } from '@atomizedev/ember-ui/components/country-select';

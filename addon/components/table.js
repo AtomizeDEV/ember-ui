@@ -4,7 +4,7 @@ import { action, set } from '@ember/object';
 import { isArray } from '@ember/array';
 import { later } from '@ember/runloop';
 import { filter, alias } from '@ember/object/computed';
-import { isEqual } from '@fleetbase/ember-core/decorators/is-equal';
+import { isEqual } from '@atomizedev/ember-core/decorators/is-equal';
 
 export default class TableComponent extends Component {
     @tracked tableNode;

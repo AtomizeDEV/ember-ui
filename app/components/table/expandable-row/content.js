@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/table/expandable-row/content';
+export { default } from '@atomizedev/ember-ui/components/table/expandable-row/content';

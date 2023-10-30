@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/json-hash';
+export { default } from '@atomizedev/ember-ui/helpers/json-hash';

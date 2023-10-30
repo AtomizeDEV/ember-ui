@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/model-select';
+export { default } from '@atomizedev/ember-ui/components/model-select';

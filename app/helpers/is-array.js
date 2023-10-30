@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/is-array';
+export { default } from '@atomizedev/ember-ui/helpers/is-array';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/toggle';
+export { default } from '@atomizedev/ember-ui/components/toggle';

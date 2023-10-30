@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/get-dot-prop';
+export { default } from '@atomizedev/ember-ui/helpers/get-dot-prop';

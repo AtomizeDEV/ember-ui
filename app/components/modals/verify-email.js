@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modals/verify-email';
+export { default } from '@atomizedev/ember-ui/components/modals/verify-email';

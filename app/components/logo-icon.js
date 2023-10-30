@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/logo-icon';
+export { default } from '@atomizedev/ember-ui/components/logo-icon';

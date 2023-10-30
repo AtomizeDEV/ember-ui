@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/table/cell/driver-name';
+export { default } from '@atomizedev/ember-ui/components/table/cell/driver-name';

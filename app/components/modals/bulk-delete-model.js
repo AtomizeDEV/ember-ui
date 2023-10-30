@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modals/bulk-delete-model';
+export { default } from '@atomizedev/ember-ui/components/modals/bulk-delete-model';

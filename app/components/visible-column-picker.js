@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/visible-column-picker';
+export { default } from '@atomizedev/ember-ui/components/visible-column-picker';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/currency-select';
+export { default } from '@atomizedev/ember-ui/components/currency-select';

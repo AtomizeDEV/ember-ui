@@ -7,7 +7,7 @@ import { assign } from '@ember/polyfills';
 import { tracked } from '@glimmer/tracking';
 import { timeout } from 'ember-concurrency';
 import { restartableTask, dropTask } from 'ember-concurrency-decorators';
-import generateUuid from '@fleetbase/ember-core/utils/generate-uuid';
+import generateUuid from '@atomizedev/ember-core/utils/generate-uuid';
 import config from 'ember-get-config';
 
 const getConfigOption = (key, defaultValue) => {

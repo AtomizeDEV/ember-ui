@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/date-time-input';
+export { default } from '@atomizedev/ember-ui/components/date-time-input';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/info-block';
+export { default } from '@atomizedev/ember-ui/components/info-block';

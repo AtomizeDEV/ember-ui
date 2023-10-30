@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/money-input';
+export { default } from '@atomizedev/ember-ui/components/money-input';

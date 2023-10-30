@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/badge';
+export { default } from '@atomizedev/ember-ui/components/badge';

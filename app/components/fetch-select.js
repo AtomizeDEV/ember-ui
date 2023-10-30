@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/fetch-select';
+export { default } from '@atomizedev/ember-ui/components/fetch-select';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/table/cell/link-to';
+export { default } from '@atomizedev/ember-ui/components/table/cell/link-to';

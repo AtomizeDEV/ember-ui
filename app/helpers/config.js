@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/config';
+export { default } from '@atomizedev/ember-ui/helpers/config';

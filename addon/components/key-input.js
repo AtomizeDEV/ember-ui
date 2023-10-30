@@ -2,7 +2,7 @@ import Component from '@glimmer/component';
 import { tracked } from '@glimmer/tracking';
 import { action } from '@ember/object';
 import { underscore } from '@ember/string';
-import generateUuid from '@fleetbase/ember-core/utils/generate-uuid';
+import generateUuid from '@atomizedev/ember-core/utils/generate-uuid';
 
 export default class KeyInputComponent extends Component {
     @tracked value;

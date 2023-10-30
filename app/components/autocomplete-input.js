@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/autocomplete-input';
+export { default } from '@atomizedev/ember-ui/components/autocomplete-input';

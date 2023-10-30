@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/now';
+export { default } from '@atomizedev/ember-ui/helpers/now';

@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/modifiers/vertical-offset-by';
+export { default } from '@atomizedev/ember-ui/modifiers/vertical-offset-by';

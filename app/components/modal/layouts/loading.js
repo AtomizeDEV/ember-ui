@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/modal/layouts/loading';
+export { default } from '@atomizedev/ember-ui/components/modal/layouts/loading';

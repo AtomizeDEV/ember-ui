@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/attach/tooltip';
+export { default } from '@atomizedev/ember-ui/components/attach/tooltip';

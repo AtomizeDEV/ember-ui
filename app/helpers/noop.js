@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/helpers/noop';
+export { default } from '@atomizedev/ember-ui/helpers/noop';

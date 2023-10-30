@@ -1,1 +1,1 @@
-export { default } from '@fleetbase/ember-ui/components/input-info';
+export { default } from '@atomizedev/ember-ui/components/input-info';
