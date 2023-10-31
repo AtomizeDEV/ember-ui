@@ -12,7 +12,7 @@ module.exports = {
         './node_modules/@atomizedev/ember-core/addon/**/*.{hbs,js}',
         './node_modules/@atomizedev/fleetops-engine/addon/**/*.{hbs,js}',
         './node_modules/@atomizedev/storefront-engine/addon/**/*.{hbs,js}',
-        './node_modules/@fleetbase/*-engine/addon/**/*.{hbs,js}',
+        './node_modules/@atomizedev/*-engine/addon/**/*.{hbs,js}',
         './node_modules/**/*-engine/addon/**/*.{hbs,js}',
         '../packages/*-engine/addon/**/*.{hbs,js}',
     ],
