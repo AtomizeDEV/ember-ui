@@ -155,7 +155,6 @@ export default class LayoutHeaderComponent extends Component {
             },
         ];
 
-
         items.pushObjects([
             {
                 component: 'layout/header/dark-mode-toggle',
