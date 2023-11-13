@@ -2,7 +2,7 @@ import Component from '@glimmer/component';
 import { tracked } from '@glimmer/tracking';
 import { inject as service } from '@ember/service';
 import { later } from '@ember/runloop';
-import getWithDefault from '@fleetbase/ember-core/utils/get-with-default';
+import getWithDefault from '@atomizedev/ember-core/utils/get-with-default';
 
 /**
  * Represents the `CountryName` component which fetches and sets the name of a country.
