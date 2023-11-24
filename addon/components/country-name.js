@@ -9,7 +9,7 @@ import getWithDefault from '@atomizedev/ember-core/utils/get-with-default';
  *
  * @class CountryNameComponent
  * @extends {Component}
- * @memberof @fleetbase/ember-ui
+ * @memberof @atomizedev/ember-ui
  *
  * @property {Service} fetch - Service for fetching data.
  * @property {string} countryName - The name of the country.
