@@ -16,6 +16,7 @@ export default class LayoutHeaderComponent extends Component {
     @service router;
     @service hostRouter;
     @service universe;
+
     @alias('args.user') user;
 
     @computed('store', 'user.company_uuid') get company() {
@@ -153,9 +154,28 @@ export default class LayoutHeaderComponent extends Component {
             {
                 seperator: true,
             },
+            {
+                href: 'javascript:;',
+                text: 'Changelog',
+                disabled: true,
+                action: 'viewChangelog',
+            },
         ];
 
+        if (this.hasExtension('@atomizedev/dev-engine')) {
+            items.pushObject({
+                route: 'console.developers',
+                text: 'Developers',
+            });
+        }
+
         items.pushObjects([
+            {
+                href: 'https://fastlane.ee/support',
+                target: '_support',
+                text: 'Help & Support',
+                icon: 'arrow-up-right-from-square',
+            },
             {
                 component: 'layout/header/dark-mode-toggle',
             },
