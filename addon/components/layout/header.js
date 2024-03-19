@@ -154,12 +154,6 @@ export default class LayoutHeaderComponent extends Component {
             {
                 seperator: true,
             },
-            {
-                href: 'javascript:;',
-                text: 'Changelog',
-                disabled: true,
-                action: 'viewChangelog',
-            },
         ];
 
         if (this.hasExtension('@atomizedev/dev-engine')) {
@@ -171,7 +165,7 @@ export default class LayoutHeaderComponent extends Component {
 
         items.pushObjects([
             {
-                href: 'https://fastlane.ee/support',
+                href: 'https://calendly.com/fastlane-ee',
                 target: '_support',
                 text: 'Help & Support',
                 icon: 'arrow-up-right-from-square',
