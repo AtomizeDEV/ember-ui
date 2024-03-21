@@ -143,7 +143,7 @@ export default class LayoutHeaderComponent extends Component {
         const items = [
             {
                 route: 'console.account.index',
-                text: 'View Profile',
+                text: 'My Profile',
             },
             {
                 href: 'javascript:;',
