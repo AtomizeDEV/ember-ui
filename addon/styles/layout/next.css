@@ -874,7 +874,7 @@ body[data-theme='dark'] .next-map-container-table-container {
 
 body[data-theme='dark'] .next-map-container-view-switch > button.active,
 .next-map-container-view-switch > button.active {
-    @apply bg-sky-500 text-white font-semibold;
+    @apply bg-magicpurple-500 text-white font-semibold;
 }
 
 body[data-theme='dark'] .next-map-container-view-switch > button {
@@ -923,7 +923,7 @@ a.next-view-header-item:hover,
 .next-view-header-item:hover,
 .next-view-header-item.active,
 .next-view-header-item.is-open {
-    @apply bg-sky-500 text-white shadow-sm cursor-default;
+    @apply bg-magicpurple-500 text-white shadow-sm cursor-default;
 }
 
 body[data-theme='dark'] .next-view-header-item:hover,
