@@ -1901,11 +1901,11 @@ body[data-theme="dark"] .x-fleetbase-file > .x-fleetbase-file-wrapper {
 }
 
 .x-fleetbase-file > .x-fleetbase-file-wrapper:hover {
-    border: 1px #3b82f6 solid;
+    border: 1px #bd4dff solid;
 }
 
 .x-fleetbase-file > .x-fleetbase-file-wrapper .x-fleetbase-file-name {
-    background-color: #3b82f6;
+    background-color: #bd4dff;
     padding: .15rem;
     border-radius: .15rem;
     text-align: center;
