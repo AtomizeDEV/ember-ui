@@ -37,6 +37,7 @@ module.exports = {
                     900: '#092341',
                 },
                 magicpurple: {
+                    50: '#f4eaff',
                     100: '#ffc5ff',
                     200: '#ff9dff',
                     300: '#e575ff',
